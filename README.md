@@ -1,4 +1,4 @@
-I’m a security engineer in the UK specialising in information security and
+A security engineer in the UK specialising in information security and
 software development. Visit [my website](https://volatilethunk.com) for [my
 articles](https://volatilethunk.com/posts.html) and [my
 CV](https://volatilethunk.com/louis-jackman-cv.pdf). Additional contact
