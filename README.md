@@ -28,7 +28,7 @@ In recent years, I have been increasingly assisted by **Claude Code** and
 like **Qwen and GPT-OSS inside OpenCode**.
 
 Some other technologies also show up in personal projects: client-side Linux,
-OCaml, Nix, embedded Scheme variants, and Emacs Lisp.
+Odin, Nix, embedded Scheme variants, and Emacs Lisp.
 
 ---
 
